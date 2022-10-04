@@ -1,9 +1,20 @@
+
+//const word = prompt('Input: ')
+
 function isPalindrome(word) {
   // Write your algorithm here
+console.log('hi')
 }
+ 
+isPalindrome()
 
 /* 
   Add your pseudocode here
+  -convert string to array
+  -reverse the array values
+  -convert array back to string
+
+
 */
 
 /*
